@@ -9,7 +9,7 @@ PublisherSupportUrl: https://github.com/bzhzion/beammeup/issues
 PackageName: BeamMeUp
 PackageUrl: https://beammeup.breizhzion.com
 License: BZ-1.1 (BREIZHZION Personal Use License)
-LicenseUrl: https://github.com/bzhzion/beammeup/blob/main/LICENSE
+LicenseUrl: https://github.com/bzhzion/beammeup/blob/main/LICENSE.md
 ShortDescription: One terminal window, shared in real time between a human and an AI agent.
 Description: >-
   BeamMeUp gives a human and an AI coding agent a single shared terminal window. The agent drives
